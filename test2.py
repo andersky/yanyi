@@ -45,7 +45,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url("https://k.sinaimg.cn/n/sinakd202164s/600/w1920h1080/20210604/5886-kracxeq2358416.jpg/w700d1q75cms.jpg?by=cms_fixed_width");
+            background-image: url("https://www.xhu.edu.cn/_upload/article/images/f5/95/792e3160419f96bc80df62161d04/2e53bd6f-2c3d-4f09-9879-f71140414c00.jpg");
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
