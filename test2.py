@@ -112,7 +112,7 @@ def main():
                 st.balloons()  # 显示气球效果
                 # 创建一个超链接，添加自定义样式
                 st.markdown(
-                    '<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/andersky/nihe/main/thermal_conductivity_prediction(2).html" target="_blank">请点击这里查看预测结果</a>',
+                    '<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/andersky/yanyi/main/thermal_conductivity_prediction.html" target="_blank">请点击这里查看预测结果</a>',
                     unsafe_allow_html=True
                 )
             else:
